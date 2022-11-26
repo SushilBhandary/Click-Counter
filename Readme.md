@@ -6,7 +6,7 @@ The website focuses on learning DOM manipulation .
 - querySelector
 - innerHTML
 
-## [Live Preview](https://api-jokes-generator.netlify.app/)
+## [Live Preview](https://click-counters.netlify.app/)
 
 ### SnapShot of the Webpage
 
